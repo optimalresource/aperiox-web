@@ -110,21 +110,21 @@ function BodyOne() {
 
                 <div className={peer}>
                     <p className={titlePeer}>Peer to Peer Trading</p>
-                    <p className={subTitlePeer}>Safest peer-to-peer marketplace to buy and sell bitcoin with 100+ payment methods.</p>
+                    <p className={subTitlePeer}>Safest peer-to-peer marketplace to buy and sell cryptocurrencies with multiple payment methods.</p>
 
                     <ButtonYellow title="Start Trading" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
                 <div className={buyCrypto}>
                     <p className={titleBuy}>Instantly buy Crypto with your Card</p>
-                    <p className={subTitleBuy}>Most convenient way to get your Crypto by Visa MasterCard and Verve.</p>
+                    <p className={subTitleBuy}>Most convenient way to get your Crypto with credit or debit cards.</p>
 
                     <ButtonYellow title="Start Trading" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
                 <div className={deposit}>
                     <p className={titleDeposit}>Deposit Fiat</p>
-                    <p className={subTitleDeposit}>Deposit NGN instantly into your ApeiroX account from Any Nigerian bank.</p>
+                    <p className={subTitleDeposit}>Deposit local currencies instantly into your ApeiroX account directly from your bank.</p>
 
                     <ButtonYellow title="Start Trading" onClick={() => router.push(`/exchanges`)} />
                 </div>
