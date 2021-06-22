@@ -46,7 +46,7 @@ function Footer() {
             </div>
 
             <div className="ml-10 mb-5">
-                <p className="mb-2 text-xs text-gray-400">Copyright @ 2021 ApeiroX LLC |  All Rights Reserved.</p>
+                <p className="mb-2 text-xs text-gray-400">Copyright @ 2021 ApeiroX |  All Rights Reserved.</p>
             </div>
 
         </div>
