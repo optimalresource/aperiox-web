@@ -152,7 +152,7 @@ function BodyTwo() {
                         You can trade both locally and internationally using our commerce platform.
                         Start by using the button below.</p>
 
-                    <ButtonYellow title="Exchanges where listed" onClick={() => router.push(`/exchanges`)}/>
+                    <ButtonYellow title="See Exchanges" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
                 <div className={buyCrypto}>
@@ -162,7 +162,7 @@ function BodyTwo() {
                         and and vise versa.
                         .</p>
 
-                    <ButtonYellow title="Start Trading" onClick={() => router.push(`/exchanges`)}/>
+                    <ButtonYellow title="See Exchanges" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
 
@@ -173,7 +173,7 @@ function BodyTwo() {
                         Our P2P platform will require users to create an offer for two different currency pairs, usually from crypto to fiat, however we will make available the option of converting from crypto to crypto.
                     </p>
 
-                    <ButtonYellow title="Exchanges where listed" onClick={() => router.push(`/exchanges`)}/>
+                    <ButtonYellow title="See Exchanges" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
                 <div className={deposit1}>
@@ -182,7 +182,7 @@ function BodyTwo() {
                         One unique product of ours is our e-wallet system. The e-wallet will have the capacity to hold values for all national currencies. Any user on the platform will have a unique e-wallet identifier public address assigned to the account. The identifier will be a 32 hexadecimal code and can be used to receive any currency denomination. The e-currencies in this wallet are considered another version of stable coins that are transferable cross-border.
                     </p>
 
-                    <ButtonYellow title="Exchanges where listed" onClick={() => router.push(`/exchanges`)}/>
+                    <ButtonYellow title="See Exchanges" onClick={() => router.push(`/exchanges`)}/>
                 </div>
 
 
