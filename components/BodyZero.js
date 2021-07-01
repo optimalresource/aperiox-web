@@ -93,14 +93,7 @@ function BodyZero() {
                                 className="bg-gray-800 h-10 text-sm rounded font-semibold w-24 hover:bg-gray-400 ">
                                 Buy Now
                             </button>
-                            <Link href={'https://privatesales.apeirox.com/'}>
-                                <a target="_blank" rel="noopener noreferrer">
-                                    <button
-                                        className="bg-gray-400 h-10 text-black text-sm rounded font-semibold w-24 mx-3 hover:bg-gray-400 ">
-                                        Private Sale
-                                    </button>
-                                </a>
-                            </Link>
+                            
                         </div>
                     </div>
                 </div>
